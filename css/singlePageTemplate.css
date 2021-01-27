@@ -161,13 +161,13 @@ ul li:hover a {
 	
 }
 .parallax_logo {
-	color: #2B2626;
-	text-align: center;
-	padding-left: 100px;
+    color: #2B2626;
 	
-	padding-top: 30px;
-	letter-spacing: 2px;
-	margin-top: 0px;
+    background-image: url("../LOGO.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    width: 50%;
+    
 }
 .parallax_description {
     color: #F05A24;
