@@ -12,11 +12,11 @@ body {
 }
 /* Container */
 .container {
-	width: 90%;
-	margin-left: auto;
-	margin-right: auto;
-	height: 1000px;
-	background-color: #FFFFFF;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 404px;
+    background-color: #FFFFFF;
 }
 /* Navigation */
 header {
